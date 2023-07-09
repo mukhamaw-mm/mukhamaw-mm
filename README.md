@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👂  I’m Mu Kham Aw
+
 - 🔭 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me:https://www.linkedin.com/in/mu-kham-aw-b12860196/
