@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on developing secure, user-friendly digital wallet solutions for the banking industry 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning everything ![Uploading image.png…]()
+
 - 📫 How to reach me: https://www.linkedin.com/in/mu-kham-aw-b12860196/
 
 
