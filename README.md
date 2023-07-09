@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on developing secure, user-friendly digital wallet solutions for the banking industry 
+🌱 I’m currently learning java
+
 <!--
 **mukhamaw-mm/mukhamaw-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
