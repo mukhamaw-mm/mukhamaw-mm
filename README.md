@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m Backend Developer
+- 🔭 I’m a Backend Developer
 - 🌱 Working on backend project using Java and Spring Boot
 - 📫 How to reach me:https://www.linkedin.com/in/mu-kham-aw-b12860196/
 
